@@ -1,9 +1,10 @@
 ### Hello world! I'm just a student starting my journey.
 ###    Olá, mundo! Sou apenas um estudante iniciando a minha jornada.
 
-![](https://media.tenor.com/yhN7oprHIS0AAAAM/idk.gif)
 <!--
 **GBDsilva/GBDsilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+![](https://media.tenor.com/yhN7oprHIS0AAAAM/idk.gif)
 
 Here are some ideas to get you started:
 
